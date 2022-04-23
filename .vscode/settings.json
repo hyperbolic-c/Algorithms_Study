@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "HUFF.C": "cpp",
+        "AHUFF.C": "cpp",
+        "BITIO.C": "cpp"
+    }
+}
